@@ -1,0 +1,4 @@
+package: github.com/taka-wang/ambassador
+import:
+- package: github.com/eclipse/paho.mqtt.golang
+  version: v1.1.1

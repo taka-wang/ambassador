@@ -1,0 +1,14 @@
+hash: d77619f60a7c6bcde827de523742724da82582758fb3b48992767c302099c556
+updated: 2018-06-13T18:33:35.736719832+08:00
+imports:
+- name: github.com/eclipse/paho.mqtt.golang
+  version: 36d01c2b4cbeb3d2a12063e4880ce30800af9560
+  subpackages:
+  - packets
+- name: golang.org/x/net
+  version: db08ff08e8622530d9ed3a0e8ac279f6d4c02196
+  subpackages:
+  - internal/socks
+  - proxy
+  - websocket
+testImports: []
